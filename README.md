@@ -1,9 +1,6 @@
 # AIVerse: Leveraging GAI capabilities in a web application for multimedia generation
 
-●	Platforms like ChatGPT or Gemini primarily focus on conversation, although they may    offer code-related functionalities, they do not provide art generation facilities.
-●	Also, platforms like OpenArt and Dall E provide only image generation but not chat,music generation,video generation,code generation etc
-●	Similarly, there are other platforms which lack one feature of the other for generation. The below table illustrates the same-
-●	The aim of our web application is to provide all generation features i.e. conversation, image generation,music generation, video generation and code generation on a single platform.
+Platforms like ChatGPT or Gemini primarily focus on conversation, although they may    offer code-related functionalities, they do not provide art generation facilities.Also, platforms like OpenArt and Dall E provide only image generation but not chat,music generation,video generation,code generation etc. Similarly, there are other platforms which lack one feature of the other for generation. The aim of our web application is to provide all generation features i.e. conversation, image generation,music generation, video generation and code generation on a single platform.
 
 Implementation-
 1.	To get started, user has to click “Start Generating for Free” / “Get Started”
